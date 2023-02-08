@@ -1,6 +1,4 @@
-package com.example.vcgun_mod;
-
-
+package io.github.blackvccat.vcgun_mod;
 import net.minecraft.Util;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.entity.player.Player;
